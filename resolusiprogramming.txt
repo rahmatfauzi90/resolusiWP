@@ -1,6 +1,6 @@
 Resolusi pemrograman web
-- membuat codingan
 - membuat aplikasi
 - membuat forum diskusi
 - bercita - cita bikin start up
 - kolaborasi dengan lab lain
+- membuat jurnal
