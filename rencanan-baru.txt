@@ -1,5 +1,6 @@
 RENCANA BARU
 - bikin vlog
 - bikin website pribadi
-bikin angular
-bikin react
+bikin laravel
+bikin Vue
+bikin pyton
